@@ -13,7 +13,7 @@
   position: absolute;
   z-index: 2;
   top: 212px;
-  left: 300px;
+  left: 400px;
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
